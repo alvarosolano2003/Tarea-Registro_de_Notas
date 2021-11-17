@@ -17,6 +17,7 @@ namespace Presentation
     {
         public MatriculasModel matriculasModel;
         public EstudiantesModel estudiantesModel;
+        //probando cuenta de git
         public FrmGeneral()
         {
             matriculasModel = new MatriculasModel();
